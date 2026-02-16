@@ -1,0 +1,20 @@
+{
+  "name": "it23561120_af-lab04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SudamNF17/IT23561120_AF-lab04.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SudamNF17/IT23561120_AF-lab04/issues"
+  },
+  "homepage": "https://github.com/SudamNF17/IT23561120_AF-lab04#readme"
+}
